@@ -28,6 +28,4 @@ Commercial licensing available for closed-source use cases.
 
 ## Star History
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/weavefox/skyway?style=social)](https://github.com/weavefox/skyway/stargazers)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=weavefox/skyway&type=Date)](https://star-history.com/#weavefox/skyway&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=weavefox/skyway&type=date&legend=top-left)](https://www.star-history.com/#weavefox/skyway&type=date&legend=top-left)
