@@ -6,6 +6,7 @@
     "contributor": "git-contributor --owners owners.txt"
   },
   "dependencies": {
-    "git-contributor": "^1.0.0"
-  }
+    "git-contributor": "2"
+  },
+  "repository": "git@github.com:weavefox/skyway.git"
 }
