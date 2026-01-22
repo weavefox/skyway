@@ -6,10 +6,10 @@
 
 ## Contributors
 
-|[<img src="https://avatars.githubusercontent.com/WynterDing?v=4" width="100px;"/><br/><sub><b>WynterDing</b></sub>](https://github.com/WynterDing)<br/>|[<img src="https://avatars.githubusercontent.com/hustcc?v=4" width="100px;"/><br/><sub><b>hustcc</b></sub>](https://github.com/hustcc)<br/>|
-| :---: | :---: |
+|[<img src="https://avatars.githubusercontent.com/u/11213298?v=4" width="80px;"/><br/><sub><b>WynterDing</b></sub>](https://github.com/WynterDing)<br/>|[<img src="https://avatars.githubusercontent.com/hustcc?v=4" width="80px;"/><br/><sub><b>hustcc</b></sub>](https://github.com/hustcc)<br/>|[<img src="https://avatars.githubusercontent.com/harryecho996?v=4" width="80px;"/><br/><sub><b>harryecho996</b></sub>](https://github.com/harryecho996)<br/>|[<img src="https://avatars.githubusercontent.com/myzxlin?v=4" width="80px;"/><br/><sub><b>myzxlin</b></sub>](https://github.com/myzxlin)<br/>|[<img src="https://avatars.githubusercontent.com/yangkeni?v=4" width="80px;"/><br/><sub><b>yangkeni</b></sub>](https://github.com/yangkeni)<br/>|[<img src="https://avatars.githubusercontent.com/z0gSh1u?v=4" width="80px;"/><br/><sub><b>z0gSh1u</b></sub>](https://github.com/z0gSh1u)<br/>|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+[<img src="https://avatars.githubusercontent.com/onlylovermb?v=4" width="80px;"/><br/><sub><b>onlylovermb</b></sub>](https://github.com/onlylovermb)<br/>
 
-
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Thu Jan 22 2026 16:21:05 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Thu Jan 22 2026 17:33:09 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
