@@ -13,3 +13,21 @@
 This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Thu Jan 22 2026 17:33:09 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
+
+---
+
+## License
+
+**AGPL-3.0** - GNU Affero General Public License v3.0
+
+Skyway is free to use. If you modify and distribute it, or run it as a service, your code must also be open source under AGPL-3.0.
+
+Commercial licensing available for closed-source use cases.
+
+---
+
+## Star History
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/weavefox/skyway?style=social)](https://github.com/weavefox/skyway/stargazers)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=weavefox/skyway&type=Date)](https://star-history.com/#weavefox/skyway&Date)
