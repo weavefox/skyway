@@ -1,0 +1,11 @@
+{
+  "name": "skyway",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "contributor": "git-contributor --owners owners.txt"
+  },
+  "dependencies": {
+    "git-contributor": "^1.0.0"
+  }
+}
