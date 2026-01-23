@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "contributor": "git-contributor --owners owners.txt"
+    "contributor": "git-contributor --owners owners.txt --size small"
   },
   "dependencies": {
     "git-contributor": "2"
