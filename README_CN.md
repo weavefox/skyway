@@ -4,6 +4,8 @@
 
 **Skyway** 是一款强大的 AI 桌面应用，融合了智能研发辅助与通用自动化能力。
 
+![Skyway 首页](./images/home_cn.png)
+
 ## 双模式，无限可能
 
 ### 🛠️ 研发模式
@@ -26,6 +28,10 @@
 - 💡 **通用场景** - 提问、头脑风暴、内容创作等多种用途
 - 🎯 **任务自动化** - 借助 AI 自动化处理重复性任务
 - 📋 **零配置** - 适合快速提问和日常任务处理
+
+| 研发模式 | 自动化模式 |
+| :---: | :---: |
+| ![Skyway 研发模式](./images/dev_cn.png) | ![Skyway 自动化模式](./images/vibe_cn.png) |
 
 ## 通用功能
 
@@ -64,10 +70,8 @@
 
 ## 贡献者
 
-| [<img src="https://avatars.githubusercontent.com/WynterDing?v=4" width="60px;"/><br/><sub><b>WynterDing</b></sub>](https://github.com/WynterDing)<br/> | [<img src="https://avatars.githubusercontent.com/hustcc?v=4" width="60px;"/><br/><sub><b>hustcc</b></sub>](https://github.com/hustcc)<br/> | [<img src="https://avatars.githubusercontent.com/harryecho996?v=4" width="60px;"/><br/><sub><b>harryecho996</b></sub>](https://github.com/harryecho996)<br/> | [<img src="https://avatars.githubusercontent.com/myzxlin?v=4" width="60px;"/><br/><sub><b>myzxlin</b></sub>](https://github.com/myzxlin)<br/> | [<img src="https://avatars.githubusercontent.com/yangkeni?v=4" width="60px;"/><br/><sub><b>yangkeni</b></sub>](https://github.com/yangkeni)<br/> | [<img src="https://avatars.githubusercontent.com/z0gSh1u?v=4" width="60px;"/><br/><sub><b>z0gSh1u</b></sub>](https://github.com/z0gSh1u)<br/> | [<img src="https://avatars.githubusercontent.com/onlylovermb?v=4" width="60px;"/><br/><sub><b>onlylovermb</b></sub>](https://github.com/onlylovermb)<br/> | [<img src="https://avatars.githubusercontent.com/chujianyun?v=4" width="60px;"/><br/><sub><b>chujianyun</b></sub>](https://github.com/chujianyun)<br/> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-[<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="60px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>
+| [<img src="https://avatars.githubusercontent.com/WynterDing?v=4" width="60px;"/><br/><sub><b>WynterDing</b></sub>](https://github.com/WynterDing)<br/> | [<img src="https://avatars.githubusercontent.com/hustcc?v=4" width="60px;"/><br/><sub><b>hustcc</b></sub>](https://github.com/hustcc)<br/> | [<img src="https://avatars.githubusercontent.com/harryecho996?v=4" width="60px;"/><br/><sub><b>harryecho996</b></sub>](https://github.com/harryecho996)<br/> | [<img src="https://avatars.githubusercontent.com/myzxlin?v=4" width="60px;"/><br/><sub><b>myzxlin</b></sub>](https://github.com/myzxlin)<br/> | [<img src="https://avatars.githubusercontent.com/yangkeni?v=4" width="60px;"/><br/><sub><b>yangkeni</b></sub>](https://github.com/yangkeni)<br/> | [<img src="https://avatars.githubusercontent.com/z0gSh1u?v=4" width="60px;"/><br/><sub><b>z0gSh1u</b></sub>](https://github.com/z0gSh1u)<br/> | [<img src="https://avatars.githubusercontent.com/onlylovermb?v=4" width="60px;"/><br/><sub><b>onlylovermb</b></sub>](https://github.com/onlylovermb)<br/> | [<img src="https://avatars.githubusercontent.com/chujianyun?v=4" width="60px;"/><br/><sub><b>chujianyun</b></sub>](https://github.com/chujianyun)<br/> | [<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="60px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
 
 本项目遵循 git-contributor [规范](https://github.com/xudafeng/git-contributor)，自动更新于 `Mon Mar 02 2026 06:06:32 GMT+0000`。
 
