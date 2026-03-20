@@ -4,6 +4,8 @@ English | [中文](./README_CN.md)
 
 **Skyway** is a powerful AI-powered desktop application that combines intelligent development assistance with versatile automation capabilities.
 
+![Skyway HomePage](./images/home.png)
+
 ## Two Modes, Infinite Possibilities
 
 ### 🛠️ Development Mode
@@ -26,6 +28,10 @@ A lightweight mode for quick AI interactions without project context:
 - 💡 **General Purpose** - Ask questions, brainstorm ideas, draft content, and more
 - 🎯 **Task Automation** - Automate repetitive tasks with AI assistance
 - 📋 **No Setup Required** - Perfect for quick questions and everyday tasks
+
+|               Development Mode               |               Automation Mode                |
+| :------------------------------------------: | :------------------------------------------: |
+| ![Skyway Development Mode](./images/dev.png) | ![Skyway Automation Mode](./images/vibe.png) |
 
 ## Common Features
 
@@ -65,9 +71,8 @@ Download the latest `.dmg` file from [Releases](https://github.com/weavefox/skyw
 
 ## Contributors
 
-|[<img src="https://avatars.githubusercontent.com/WynterDing?v=4" width="60px;"/><br/><sub><b>WynterDing</b></sub>](https://github.com/WynterDing)<br/>|[<img src="https://avatars.githubusercontent.com/hustcc?v=4" width="60px;"/><br/><sub><b>hustcc</b></sub>](https://github.com/hustcc)<br/>|[<img src="https://avatars.githubusercontent.com/harryecho996?v=4" width="60px;"/><br/><sub><b>harryecho996</b></sub>](https://github.com/harryecho996)<br/>|[<img src="https://avatars.githubusercontent.com/myzxlin?v=4" width="60px;"/><br/><sub><b>myzxlin</b></sub>](https://github.com/myzxlin)<br/>|[<img src="https://avatars.githubusercontent.com/yangkeni?v=4" width="60px;"/><br/><sub><b>yangkeni</b></sub>](https://github.com/yangkeni)<br/>|[<img src="https://avatars.githubusercontent.com/z0gSh1u?v=4" width="60px;"/><br/><sub><b>z0gSh1u</b></sub>](https://github.com/z0gSh1u)<br/>|[<img src="https://avatars.githubusercontent.com/onlylovermb?v=4" width="60px;"/><br/><sub><b>onlylovermb</b></sub>](https://github.com/onlylovermb)<br/>|[<img src="https://avatars.githubusercontent.com/chujianyun?v=4" width="60px;"/><br/><sub><b>chujianyun</b></sub>](https://github.com/chujianyun)<br/>|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-[<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="60px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>
+| [<img src="https://avatars.githubusercontent.com/WynterDing?v=4" width="60px;"/><br/><sub><b>WynterDing</b></sub>](https://github.com/WynterDing)<br/> | [<img src="https://avatars.githubusercontent.com/hustcc?v=4" width="60px;"/><br/><sub><b>hustcc</b></sub>](https://github.com/hustcc)<br/> | [<img src="https://avatars.githubusercontent.com/harryecho996?v=4" width="60px;"/><br/><sub><b>harryecho996</b></sub>](https://github.com/harryecho996)<br/> | [<img src="https://avatars.githubusercontent.com/myzxlin?v=4" width="60px;"/><br/><sub><b>myzxlin</b></sub>](https://github.com/myzxlin)<br/> | [<img src="https://avatars.githubusercontent.com/yangkeni?v=4" width="60px;"/><br/><sub><b>yangkeni</b></sub>](https://github.com/yangkeni)<br/> | [<img src="https://avatars.githubusercontent.com/z0gSh1u?v=4" width="60px;"/><br/><sub><b>z0gSh1u</b></sub>](https://github.com/z0gSh1u)<br/> | [<img src="https://avatars.githubusercontent.com/onlylovermb?v=4" width="60px;"/><br/><sub><b>onlylovermb</b></sub>](https://github.com/onlylovermb)<br/> | [<img src="https://avatars.githubusercontent.com/chujianyun?v=4" width="60px;"/><br/><sub><b>chujianyun</b></sub>](https://github.com/chujianyun)<br/> | [<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="60px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
 
 This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Fri Mar 20 2026 07:04:25 GMT+0000`.
 
