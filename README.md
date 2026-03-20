@@ -69,7 +69,7 @@ Download the latest `.dmg` file from [Releases](https://github.com/weavefox/skyw
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 [<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="60px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Fri Mar 20 2026 07:00:45 GMT+0000`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Fri Mar 20 2026 07:04:25 GMT+0000`.
 
 <!-- GITCONTRIBUTOR_END -->
 
