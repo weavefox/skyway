@@ -64,6 +64,12 @@
 
 📚 详细的使用指南和教程，请访问 [语雀知识库](https://www.yuque.com/weavefox/skyway)。
 
+## 社区
+
+欢迎扫码加入微信群交流：
+
+<img src="./images/qrcode.png" width="200" alt="微信群二维码" />
+
 ---
 
 <!-- GITCONTRIBUTOR_START -->

@@ -65,6 +65,12 @@ Download the latest `.dmg` file from [Releases](https://github.com/weavefox/skyw
 
 📚 For detailed guides and tutorials, visit our [Knowledge Base](https://www.yuque.com/weavefox/skyway).
 
+## Community
+
+Scan the QR code to join our WeChat group:
+
+<img src="./images/qrcode.png" width="200" alt="WeChat Group QR Code" />
+
 ---
 
 <!-- GITCONTRIBUTOR_START -->
