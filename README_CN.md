@@ -1,6 +1,6 @@
 # Skyway
 
-[English](./README.md) | [中文](./README_CN.md)
+[English](./README.md) | 中文
 
 **Skyway** 是一款强大的 AI 桌面应用，融合了智能研发辅助与通用自动化能力。
 
