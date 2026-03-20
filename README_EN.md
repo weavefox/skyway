@@ -1,6 +1,6 @@
 # Skyway
 
-[中文](./README_CN.md) | English
+[中文](./README.md) | English
 
 **Skyway** is a powerful AI-powered desktop application that combines intelligent development assistance with versatile automation capabilities.
 
